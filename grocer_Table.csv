@@ -1,0 +1,51 @@
+"id","productname","shopname","producttype","price","afterdisscount","aftertax","status"
+1,"Apples","Amazon","Fruits",100,90,95,True
+2,"Bananas","Flipkart","Fruits",60,55,60,False
+3,"Oranges","Market","Fruits",50,35,45,True
+4,"Grapes","Amazon","Fruits",130,110,125,True
+5,"Lettuce","Dmart","Veg",200,185,200,False
+6,"Spinach","Relience","Veg",150,135,145,True
+7,"Mushrooms","Amazon","Veg",500,480,490,True
+8,"Carrots","Market","Veg",120,100,110,True
+9,"Tomatoes","Flipkart","Veg",60,55,65,False
+10,"Onions","Amazon","Veg",120,115,120,True
+11,"Peppers","Flipkart","Veg",90,85,90,False
+12,"Potatoes","Market","Veg",60,55,60,False
+13,"Cucumbers","Dmart","Veg",150,135,145,True
+14,"Avocado","Amazon","Veg",130,110,125,True
+15,"Celery","Relience","Veg",200,185,200,False
+16,"Parsley","Dmart","Veg",150,135,145,True
+17,"Corn","Amazon","Veg",500,480,490,True
+18,"Chilli Pepper","Market","Veg",120,100,110,True
+19,"Beans","Flipkart","Legumes",60,55,65,False
+20,"Chickpeas","Amazon","Legumes",120,115,120,True
+21,"Sweet peas","Flipkart","Legumes",90,85,90,False
+22,"Lentils","Market","Legumes",60,55,60,False
+23,"Cooking oil","Dmart","Sauces & Oils",150,135,145,True
+24,"Oliv Oil","Amazon","Sauces & Oils",130,110,125,True
+25,"Vinegar","Relience","Sauces & Oils",200,185,200,False
+26,"Salad Dressing","Dmart","Sauces & Oils",150,135,145,True
+27,"Soy sauce","Amazon","Sauces & Oils",500,480,490,True
+28,"pasta sauce","Market","Sauces & Oils",120,100,110,True
+29,"Maple Syrp","Flipkart","Sauces & Oils",60,55,65,False
+30,"BBQ sauce","Amazon","Sauces & Oils",120,115,120,True
+31,"Flour","Flipkart","Baking",90,85,90,False
+32,"Pancake mix","Market","Baking",60,55,60,False
+33,"Vanilla","Dmart","Baking",150,135,145,True
+34,"Baking Powder","Amazon","Baking",130,110,125,True
+35,"Sugar Substitute","Relience","Baking",200,185,200,False
+36,"Waffles","Dmart","Frozen Food",150,135,145,True
+37,"Pizza","Amazon","Frozen Food",500,480,490,True
+38,"Vegetables","Market","Frozen Food",120,100,110,True
+39,"Ice Cream","Flipkart","Frozen Food",60,55,65,False
+40,"Meals","Amazon","Frozen Food",120,115,120,True
+41,"Ice Pops","Flipkart","Frozen Food",90,85,90,False
+42,"Water","Market","Beverages",60,55,60,False
+43,"Juice","Dmart","Beverages",150,135,145,True
+44,"Coffee","Amazon","Beverages",130,110,125,True
+45,"Tea","Relience","Beverages",200,185,200,False
+46,"Cookies","Dmart","Snacks",150,135,145,True
+47,"Chips","Amazon","Snacks",500,480,490,True
+48,"Popcorn","Market","Snacks",120,100,110,True
+49,"Choclates","Flipkart","Snacks",60,55,65,False
+50,"Snack bars","Amazon","Snacks",120,115,120,True
